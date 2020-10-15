@@ -1,0 +1,13 @@
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.exe
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.deps.json
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.runtimeconfig.json
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.runtimeconfig.dev.json
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.dll
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\bin\Debug\netcoreapp3.1\TenisScore.pdb
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.csprojAssemblyReference.cache
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.AssemblyInfoInputs.cache
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.AssemblyInfo.cs
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.csproj.CoreCompileInputs.cache
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.dll
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.pdb
+C:\Users\piric\source\repos\Tenis_Score\TenisScore\obj\Debug\netcoreapp3.1\TenisScore.genruntimeconfig.cache
